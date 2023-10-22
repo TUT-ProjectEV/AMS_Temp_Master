@@ -1,0 +1,2 @@
+# AMS_Temp_Master
+2023年度のAMSの温度測定基板マスター側
